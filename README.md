@@ -1,1 +1,1 @@
-# maze
+# Maze generator with backtracking algorithm
